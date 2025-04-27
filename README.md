@@ -7,7 +7,7 @@ Desenvolvedora e estudante de **Análise e Desenvolvimento de Sistemas**. Apaixo
 - **Automatizar tarefas** e **melhorar processos** para deixar tudo mais eficiente.
 - Entregar **valor real** para as soluções que crio.
 
-## ⚙️ Ferramentas e tecnologias que eu adoro
+## ⚙️ Ferramentas e tecnologias 
 
 - **Linguagens**: JavaScript, Python, C#, SQL
 - **Frameworks**: React, Node.js, .NET Core
