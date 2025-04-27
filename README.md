@@ -1,30 +1,33 @@
-# 👩‍💻 Oi, eu sou a Magnólia!  
-Desenvolvedora e estudante de **Análise e Desenvolvimento de Sistemas**. Apaixonada por **transformar ideias em soluções digitais** que realmente fazem a diferença. 
+# Olá, sou a Magnólia!  
+**Desenvolvedora | Estudante de Análise e Desenvolvimento de Sistemas**  
+Transformando ideias em soluções digitais que fazem a diferença. ✨
 
-## ✨ O que me motiva
+## O que me inspira
 
-- **Resolver problemas** de forma criativa e inovadora.
-- **Automatizar tarefas** e **melhorar processos** para deixar tudo mais eficiente.
-- Entregar **valor real** para as soluções que crio.
+- 💡 **Inovar e resolver problemas** de forma criativa.
+- 🔧 **Automatizar tarefas** e otimizar processos para ganhar eficiência.
+- 🌱 **Criar soluções** com impacto real, gerando valor.
 
-## Ferramentas e tecnologias 
+## Tecnologias que eu domino
 
 - **Linguagens**: JavaScript, Python, C#, SQL
 - **Frameworks**: React, Node.js, .NET Core
-- **Bancos de Dados**: MongoDB, SQL Server
+- **Banco de Dados**: MongoDB, SQL Server
 - **Ferramentas**: Git, GitHub, REST APIs
+
+## O que estou aprendendo
+
+- 💻 **Desenvolvimento Full Stack** 
+- ⚡ **Otimização de APIs** e **bancos de dados**.
+- 🛠️ **Arquitetura de Software** e **Design Patterns**.
 
 ## Meus projetos
 
-Quer ver o que estou criando? Dê uma olhada nos meus projetos **PINADOS** aqui no GitHub! 
+📂 Confira os projetos que estou criando e venha colaborar!  
+Dê uma olhada nos meus **projetos PINADOS** aqui no GitHub.
 
-## O que estou aprendendo agora
+## Vamos nos conectar?
 
-- Desenvolvimento **Full Stack**  
-- Como otimizar ainda mais as **APIs** e **bancos de dados**
-- Arquitetura de **Software** e **Design Patterns**
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/magn%C3%B3lia-hiller/)
 
-
-## 🌍 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magn%C3%B3lia-hiller/)
+---
