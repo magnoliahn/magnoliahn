@@ -1,5 +1,3 @@
----
-
 # 👩‍💻 Oi, eu sou a Magnólia!  
 Desenvolvedora e estudante de **Análise e Desenvolvimento de Sistemas**. Apaixonada por **transformar ideias em soluções digitais** que realmente fazem a diferença. 
 
@@ -25,6 +23,7 @@ Quer ver o que estou criando? Dê uma olhada nos meus projetos **PINADOS** aqui 
 - Desenvolvimento **Full Stack**  
 - Como otimizar ainda mais as **APIs** e **bancos de dados**
 - Arquitetura de **Software** e **Design Patterns**
+
 
 ## 🌍 Vamos nos conectar?
 
