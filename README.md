@@ -7,18 +7,18 @@ Desenvolvedora e estudante de **Análise e Desenvolvimento de Sistemas**. Apaixo
 - **Automatizar tarefas** e **melhorar processos** para deixar tudo mais eficiente.
 - Entregar **valor real** para as soluções que crio.
 
-## ⚙️ Ferramentas e tecnologias 
+## Ferramentas e tecnologias 
 
 - **Linguagens**: JavaScript, Python, C#, SQL
 - **Frameworks**: React, Node.js, .NET Core
 - **Bancos de Dados**: MongoDB, SQL Server
 - **Ferramentas**: Git, GitHub, REST APIs
 
-## 📂 Meus projetos
+## Meus projetos
 
 Quer ver o que estou criando? Dê uma olhada nos meus projetos **PINADOS** aqui no GitHub! 
 
-## 🔥 O que estou aprendendo agora
+## O que estou aprendendo agora
 
 - Desenvolvimento **Full Stack**  
 - Como otimizar ainda mais as **APIs** e **bancos de dados**
