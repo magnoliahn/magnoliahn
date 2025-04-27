@@ -29,5 +29,3 @@ Dê uma olhada nos meus **PINADOS** aqui no GitHub.
 ## Vamos nos conectar?
 
 🔗 [Meu LinkedIn](https://www.linkedin.com/in/magn%C3%B3lia-hiller/)
-
----
