@@ -1,31 +1,39 @@
-# Olá, sou a Magnólia!  
-**Desenvolvedora | Estudante de Análise e Desenvolvimento de Sistemas**  
-Transformando ideias em soluções digitais que fazem a diferença. ✨
+<h1 align="center">Oi, eu sou a Magnólia! 👩‍💻</h1>
 
-## O que me motiva
+<br>
 
-- 💡 **Inovar e resolver problemas** de forma criativa.
-- 🔧 **Automatizar tarefas** e otimizar processos para ganhar eficiência.
-- 🌱 **Criar soluções** com impacto real, gerando valor.
+##  Tecnologias & Ferramentas
 
-## Tecnologias 
+<p align="center">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnoliahn&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
-- **Linguagens**: JavaScript, Python, C#, SQL
-- **Frameworks**: React, Node.js, .NET Core
-- **Banco de Dados**: MongoDB, SQL Server
-- **Ferramentas**: Git, GitHub, REST APIs
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Magnolia-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Magnolia-Py" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Magnolia-Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Magnolia-React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Magnolia-Nodejs" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Magnolia-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Magnolia-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Magnolia-SQLServer" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Magnolia-DotNet" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+  <img align="center" alt="Magnolia-Figma" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Magnolia-Git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Magnolia-VS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+</div>
 
-## Atual foco em
+<br>
 
-- 💻 **Desenvolvimento Full Stack** 
-- ⚡ **Otimização de APIs** e **bancos de dados**.
-- 🛠️ **Arquitetura de Software** e **Design Patterns**.
 
-## Meus projetos
+
+##  Meus projetos
 
 📂 Confira os projetos que estou criando!  
 Dê uma olhada nos meus **PINADOS** aqui no GitHub.
 
-## Vamos nos conectar?
+<br>
+
+## 🌎 Vamos nos conectar?
 
 🔗 [Meu LinkedIn](https://www.linkedin.com/in/magn%C3%B3lia-hiller/)
