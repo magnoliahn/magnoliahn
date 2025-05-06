@@ -32,8 +32,6 @@
 📂 Confira os projetos que estou criando!  
 Dê uma olhada nos meus **PINADOS** aqui no GitHub.
 
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/magn%C3%B3lia-hiller/)
 <br>
 
-## 🌎 Vamos nos conectar?
-
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/magn%C3%B3lia-hiller/)
